@@ -1,0 +1,45 @@
+.dataS{
+    color: white;
+    margin-top: 250px;
+}
+
+.peruser{
+    mix-blend-mode: normal;
+}
+
+.inputSearch{
+    color: white;
+    margin-top: 200px;
+    height: 55px;
+    width: 298px;
+    background: #5E5E5E82;
+box-shadow: inset 0px 4px 0px #00000040;
+mix-blend-mode: normal;
+border: 1px solid #595959;
+opacity: 0.4;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  li strong {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Additional styling for the input */
+  input {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+
+  

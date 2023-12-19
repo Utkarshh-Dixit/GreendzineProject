@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: 360px;
+    height: 800px;
+    position: relative;
+    margin: auto;
+    border: 1px solid #ddd; /* Just for visualization */
+    box-sizing: border-box;
+  }
+  
+  /* Media query for screens smaller than 360px wide */
+  @media (max-width: 360px) {
+    .container {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  .topRightImage {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 44px;
+    right: 22px;
+  }
+  
+  .mainImage {
+    width: 71px;
+    height: 70px;
+    position: absolute;
+    top: 104px;
+    right: 144px;
+    left: 145px;
+  }
+  
+  .head {
+    margin-top: 224px;
+left: 448px;
+width: 322px;
+height: 25px;
+/* UI Properties */
+text-align: center;
+font: normal normal bold 18px/25px Source Sans Pro;
+letter-spacing: 0.01px;
+color: #FFFFFFB3;
+opacity: 0.84;
+  }
+  
+  .paragraph {
+    height: 15px;
+    width: 179px;
+    margin-right: 43px;
+    justify-content: center;
+    color: white;
+  }
+
+  .headhead{
+    margin-top: 215px;
+    margin-left: 15px;
+    margin-right: 17px;
+    margin-bottom: 53px;
+    border-radius: 30px;
+    width: 328px;
+height: 35px;
+/* UI Properties */
+background: #1A2C2C99 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
+  }
+  
+  
+  .percentageLabel {
+    font-weight: bold;
+    color: #4caf50;
+  }
+  
+  .percentageBar {
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 21px;
+    height: 11px;
+    background-color: #4caf50; /* Green color, adjust as needed */
+    width: 6px; /* Adjust dynamically based on your percentage data */
+  }
+  .percentageBar2 {
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 21px;
+    height: 11px;
+    background-color: #4caf50; /* Green color, adjust as needed */
+    width: 140px; /* Adjust dynamically based on your percentage data */
+  }
+  .percentageBar3 {
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 21px;
+    height: 11px;
+    background-color: #4caf50; /* Green color, adjust as needed */
+    width: 183px; /* Adjust dynamically based on your percentage data */
+  }
+  .percentageBar4 {
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 21px;
+    height: 11px;
+    background-color: #4caf50; /* Green color, adjust as needed */
+    width: 132px; /* Adjust dynamically based on your percentage data */
+  }
+  .percentageBar5 {
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 21px;
+    height: 11px;
+    background-color: #4caf50; /* Green color, adjust as needed */
+    width: 132px; /* Adjust dynamically based on your percentage data */
+  }
+  .percentageBar6 {
+    border-radius: 20px;
+    margin-top: 8px;
+    margin-left: 30px;
+    margin-bottom: 21px;
+    height: 11px;
+    background-color: #4caf50; /* Green color, adjust as needed */
+    width: 146px; /* Adjust dynamically based on your percentage data */
+  }
+  
+  .buttonWrapper {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    flex-direction: column;
+  }
+  
+.homeI{
+    height: 28px;
+    width: 28px;
+
+}
+.userI{
+    height: 28px;
+    width: 28px;
+
+}
+
+  .button {
+   
+    width: 178px;
+height: 61px;
+/* UI Properties */
+background: #38383880 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+border: 1px solid #000000;
+opacity: 1;
+/* filter: blur(7px); */
+  }
+  

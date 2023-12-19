@@ -1,0 +1,123 @@
+[
+    {
+      "empId": "001",
+      "name": "John Doe",
+      "dob": "1990-05-15",
+      "role": "Developer"
+    },
+    {
+      "empId": "002",
+      "name": "Jane Smith",
+      "dob": "1985-11-22",
+      "role": "Manager"
+    },
+    {
+      "empId": "003",
+      "name": "Bob Johnson",
+      "dob": "1992-08-10",
+      "role": "Designer"
+    },
+    {
+      "empId": "004",
+      "name": "Alice Brown",
+      "dob": "1988-03-05",
+      "role": "Tester"
+    },
+    {
+      "empId": "005",
+      "name": "David Lee",
+      "dob": "1995-02-28",
+      "role": "Analyst"
+    },
+    {
+      "empId": "006",
+      "name": "Emma White",
+      "dob": "1993-09-18",
+      "role": "Project Manager"
+    },
+    {
+      "empId": "007",
+      "name": "Michael Taylor",
+      "dob": "1987-06-12",
+      "role": "Administrator"
+    },
+    {
+      "empId": "008",
+      "name": "Olivia Miller",
+      "dob": "1997-12-03",
+      "role": "Support Engineer"
+    },
+    {
+      "empId": "009",
+      "name": "William Wilson",
+      "dob": "1986-04-20",
+      "role": "Data Scientist"
+    },
+    {
+      "empId": "010",
+      "name": "Sophia Davis",
+      "dob": "1991-07-08",
+      "role": "Business Analyst"
+    },
+    {
+      "empId": "011",
+      "name": "Matthew Harris",
+      "dob": "1989-10-25",
+      "role": "UX/UI Designer"
+    },
+    {
+      "empId": "012",
+      "name": "Ava Robinson",
+      "dob": "1994-01-17",
+      "role": "Technical Writer"
+    },
+    {
+      "empId": "013",
+      "name": "Daniel Martinez",
+      "dob": "1984-08-02",
+      "role": "Quality Assurance"
+    },
+    {
+      "empId": "014",
+      "name": "Grace Clark",
+      "dob": "1996-06-28",
+      "role": "Product Owner"
+    },
+    {
+      "empId": "015",
+      "name": "Ethan Evans",
+      "dob": "1998-04-14",
+      "role": "Scrum Master"
+    },
+    {
+      "empId": "016",
+      "name": "Chloe Turner",
+      "dob": "1983-11-09",
+      "role": "DevOps Engineer"
+    },
+    {
+      "empId": "017",
+      "name": "Liam Moore",
+      "dob": "1999-03-22",
+      "role": "Security Analyst"
+    },
+    {
+      "empId": "018",
+      "name": "Harper Hall",
+      "dob": "1982-01-31",
+      "role": "System Architect"
+    },
+    {
+      "empId": "019",
+      "name": "Benjamin Reed",
+      "dob": "2000-07-16",
+      "role": "Network Engineer"
+    },
+    {
+      "empId": "020",
+      "name": "Aria Brooks",
+      "dob": "1981-09-07",
+      "role": "Database Administrator"
+    }
+  ]
+  
